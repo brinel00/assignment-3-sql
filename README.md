@@ -1,5 +1,4 @@
 # Income and Expense Tracking Database
-===============================================================================
 ## **Problem Statement**
 
 Managing multiple streams of income whilst working a 9-5 can get quite messy. Many people who have multiple streams sturggle to track their income, where their money is going, and which sources are the most profitable. Seeing high figures doesn't mean anything if the expentidure is too high. 
@@ -34,3 +33,6 @@ The stored function in this project calculates the net profit for each income so
 2. Execute the SQL script to set up the database.
 3. Add sample data and run your queries.
 
+=======
+# assignment-3-sql
+>>>>>>> 7aaafa991456aa8499127e38186a8f43f28d5bc6
